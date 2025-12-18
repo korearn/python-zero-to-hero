@@ -17,7 +17,7 @@ Dominar Python aplicando buenas prácticas de ingeniería de software.
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguaje:** Python 3.13.7
-- **IDE:** VS Code
+- **IDE:** VS Cod
 - **Control de Versiones:** Git & GitHub
 
 ---
