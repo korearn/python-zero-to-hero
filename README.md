@@ -12,8 +12,10 @@ Dominar Python aplicando buenas prácticas de ingeniería de software.
 - **Proyecto Destacado:** 🎲 *Juego: Adivina el Número*. Un script interactivo que utiliza lógica de control y generación de aleatorios.
 - [Ver código fuente](./01_Fundamentos/proyecto_adivina_numero.py)
 
-### [Módulo 2: Estructuras de Datos] (Próximamente...)
-- Listas, Diccionarios y Tuplas.
+### [Módulo 2: Estructuras de Datos] (./02_data_structures
+- **Conceptos:** Listas, Diccionarios, Tuplas y Funciones.
+- **Proyecto Destacado:** 🗃️ *Gestor de Tareas CRUD*. Un script que añade y modifica tareas utilizando Funciones y Listas.
+- [Ver código fuente](./02_data_structures/crud_task_manager.py)
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguaje:** Python 3.13.7
@@ -21,4 +23,5 @@ Dominar Python aplicando buenas prácticas de ingeniería de software.
 - **Control de Versiones:** Git & GitHub
 
 ---
+
 *Este portafolio está en construcción constante. ¡Cualquier feedback es bienvenido!*
