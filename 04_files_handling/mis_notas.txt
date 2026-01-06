@@ -1,0 +1,3 @@
+Python es genial
+Aprender POO fue útil
+No olvidar el git push

@@ -1,0 +1,2 @@
+Manzana,5
+Sandía,9
