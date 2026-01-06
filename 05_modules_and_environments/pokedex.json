@@ -1,0 +1,48 @@
+[
+    {
+        "nombre": "sableye",
+        "id": 302,
+        "tipos": [
+            "dark",
+            "ghost"
+        ]
+    },
+    {
+        "nombre": "gallade",
+        "id": 475,
+        "tipos": [
+            "psychic",
+            "fighting"
+        ]
+    },
+    {
+        "nombre": "porygon",
+        "id": 137,
+        "tipos": [
+            "normal"
+        ]
+    },
+    {
+        "nombre": "gengar",
+        "id": 94,
+        "tipos": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "nombre": "gyarados",
+        "id": 130,
+        "tipos": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "nombre": "arceus",
+        "id": 493,
+        "tipos": [
+            "normal"
+        ]
+    }
+]
